@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-todoapp-using-react-hooks/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/simple-todoapp-using-react-hooks/static/js/main.8827ddcc.chunk.js",
+    "main.js.map": "/simple-todoapp-using-react-hooks/static/js/main.8827ddcc.chunk.js.map",
+    "runtime-main.js": "/simple-todoapp-using-react-hooks/static/js/runtime-main.8f48c512.js",
+    "runtime-main.js.map": "/simple-todoapp-using-react-hooks/static/js/runtime-main.8f48c512.js.map",
+    "static/js/2.e8ff6a49.chunk.js": "/simple-todoapp-using-react-hooks/static/js/2.e8ff6a49.chunk.js",
+    "static/js/2.e8ff6a49.chunk.js.map": "/simple-todoapp-using-react-hooks/static/js/2.e8ff6a49.chunk.js.map",
+    "index.html": "/simple-todoapp-using-react-hooks/index.html",
+    "precache-manifest.0e58e1b887ff1dcb22560e61da3a4c78.js": "/simple-todoapp-using-react-hooks/precache-manifest.0e58e1b887ff1dcb22560e61da3a4c78.js",
+    "service-worker.js": "/simple-todoapp-using-react-hooks/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/simple-todoapp-using-react-hooks/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e8ff6a49.chunk.js.LICENSE": "/simple-todoapp-using-react-hooks/static/js/2.e8ff6a49.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f48c512.js",
+    "static/js/2.e8ff6a49.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8827ddcc.chunk.js"
+  ]
+}
